@@ -1,0 +1,5 @@
+c:\users\erik\documents\visual studio 2015\Projects\KorEgyszeru\KorEgyszeru\bin\Debug\KorEgyszeru.exe.config
+c:\users\erik\documents\visual studio 2015\Projects\KorEgyszeru\KorEgyszeru\bin\Debug\KorEgyszeru.exe
+c:\users\erik\documents\visual studio 2015\Projects\KorEgyszeru\KorEgyszeru\bin\Debug\KorEgyszeru.pdb
+c:\users\erik\documents\visual studio 2015\Projects\KorEgyszeru\KorEgyszeru\obj\Debug\KorEgyszeru.exe
+c:\users\erik\documents\visual studio 2015\Projects\KorEgyszeru\KorEgyszeru\obj\Debug\KorEgyszeru.pdb
